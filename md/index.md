@@ -1,6 +1,6 @@
 # Title
 
-![Top](/img/top.png)
+![Top](./img/top.png)
 
 <div align="right"> @Your Name </div>
 
